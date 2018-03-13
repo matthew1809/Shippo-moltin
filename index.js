@@ -2,8 +2,7 @@ require('dotenv').config()
 const MoltinGateway = require('@moltin/sdk').gateway;
 
 const Moltin = MoltinGateway({
-  client_id: process.env.client_id,
-  client_secret: process.env.client_secret
+  client_id: process.env.client_id
 });
 
 
