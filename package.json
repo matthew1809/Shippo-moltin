@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@moltin/sdk": "^3.5.0",
+    "@moltin/sdk": "^3.6.2",
     "dotenv": "^5.0.1"
   }
 }
